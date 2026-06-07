@@ -13,7 +13,7 @@ Opencodev is a CLI-based AI platform equipped with intelligent AI agents such as
 Opencodev is very lightweight and can be run on Linux, Windows, and mobile devices.
 
 # Install Opencodev
-For now Opencodec is only available in the pip packages.
+For now Opencodev is only available in the pip packages.
 
 For mobile we are less sure about the error related issues we are less happy with for mobile.
 **Windows, Linux, Mobile.**
