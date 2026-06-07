@@ -21,7 +21,7 @@ For mobile we are less sure about the error related issues we are less happy wit
 pip install Opencodev
 ```
 ## Commands
-Command feature if you have trouble running Opencodec
+Command feature if you have trouble running Opencodev
 
 | Command | Description |
 |----------|-------------|
